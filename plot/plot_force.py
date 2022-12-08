@@ -11,7 +11,7 @@ def read_json(file):
 def plot_force(data):
     colors = ['r', 'g', 'b', 'c', 'm', 'y', 'k']
     
-    fig, ax = plt.subplots(len(data), figsize=(14, 8), sharex=True, sharey=True)
+    fig, ax = plt.subplots(len(data), figsize=(14, 8))
     plt.subplots_adjust(hspace=0.7)
     
     fig.suptitle('Joint Forces', fontsize=16)
@@ -25,5 +25,5 @@ def plot_force(data):
     plt.show()
         
     
-data = read_json('data.txt')
+data = read_json('modelagem_controle_robo\data.txt')
 plot_force(data)
