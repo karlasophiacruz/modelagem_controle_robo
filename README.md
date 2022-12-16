@@ -1,9 +1,9 @@
 
 ## MODELAGEM E CONTROLE POR FORÇA PARTE 1
 
-Repositório criado para o projeto Controle por força parte 1, da disciplina modelagem e controle de robôs do semestre 2022.1. O grupo é formado por Jonata Oliveira da Silva, Karla Sophia Santana Cruz, Livia Maria de Calado Machado Soares, Lilian Giselly, Pedro Henrique, Rebeca de Jesus Brandão e Ullyanne Júlia Freire Patriota.
+Repositório criado para o projeto Controle por força parte 1, da disciplina modelagem e controle de robôs do semestre 2022.1. O grupo é formado por Jonata Oliveira da Silva, Karla Sophia Santana Cruz, Livia Maria de Calado Machado Soares, Lilian Giselly Pereira, Pedro Henrique, Rebeca de Jesus Brandão e Ullyanne Júlia Freire Patriota.
 
-**A atividade foi realizada no simulador Coppelia**
+De acordo com as instruções, a atividade foi realizada no simulador coppelia e os algorítimos da força, modelagem dinâmica e da cinemática direta foram implementados em python.
 
 ###### Dentro do projeto foram atendidos os seguintes tópicos: 
 
