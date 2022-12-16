@@ -3,7 +3,7 @@
 
 Repositório criado para o projeto Controle por força parte 1, da disciplina modelagem e controle de robôs do semestre 2022.1. O grupo é formado por Jonata Oliveira da Silva, Karla Sophia Santana Cruz, Livia Maria de Calado Machado Soares, Lilian Giselly Pereira Santos, Pedro Henrique de Brito Nascimento, Rebeca de Jesus Brandão e Ullyanne Júlia Freire Patriota.
 
-De acordo com as instruções, a atividade foi realizada no simulador coppelia e os algorítimos da força, modelagem dinâmica e da cinemática direta foram implementados em python. Os plots
+De acordo com as instruções, a atividade foi realizada no simulador coppelia e os algorítimos da força, modelagem dinâmica e da cinemática direta foram implementados em python. Os plots estão na pasta "Plot" e cont
 
 ###### Dentro do projeto foram atendidos os seguintes tópicos: 
 
