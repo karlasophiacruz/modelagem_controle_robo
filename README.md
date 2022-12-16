@@ -5,7 +5,7 @@ Repositório criado para o projeto Controle por força parte 1, da disciplina mo
 
 
 
-######Dentro do projeto foram atendidos os seguintes tópicos: 
+###### Dentro do projeto foram atendidos os seguintes tópicos: 
 
 1. Observe que rodar o solid_simple.ttt mantém o robô erguido, uma vez que o comando de posição implementa uma malha de controle interno em cada junta. Por outro lado, quando rodamos solid_force.ttt os elos do manipulador caem, já que não há nada compensando a gravidade.
 2. Focando na solid_simple.ttt, implemente, com a API do Coppelia para ZeroMQ ou ROS (não será aceito o uso da API Remota clássica, pois já está com status deprecated), um script para pegar e plotar as forças de cada junta por um período de tempo.
